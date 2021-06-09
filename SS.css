@@ -49,6 +49,12 @@ width: 30%;
 display: table-cell;
 }
 
+blockquote {
+padding: 15px;
+background: #eee;
+border-radius: 5px;
+}
+
 /* Individual listed items  */
 li a {
 display: block;
