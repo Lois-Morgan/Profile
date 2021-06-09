@@ -164,7 +164,7 @@ border-radius: 50px;
 background-color: #008080;
 }
 
-/* Progress bar grey sql/oracle */
+/* Progress bar grey sql */
 .greybar2 {
 height:24px;
 width:80%;
@@ -172,10 +172,10 @@ border-radius: 50px;
 background-color: #DCDCDC;
 }
 
-/* Progress bar blue sql/oracle*/
+/* Progress bar blue sql*/
 .bluebar2 {
 height:24px;
-width: 60%;
+width: 50%;
 border-radius: 50px;
 background-color: #008080;
 }
