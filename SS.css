@@ -154,7 +154,7 @@ height:24px;
 width:80%;
 border-radius: 50px;
 background-color: #DCDCDC;
-padding-bottom: 10px;
+padding-bottom: 15px;
 }
 
 /* Progress bar blue HTML/CSS/GIS*/
@@ -163,7 +163,7 @@ height:24px;
 width:75%;
 border-radius: 50px;
 background-color: #008080;
-padding-bottom: 10px;
+padding-bottom: 15px;
 }
 
 /* Progress bar grey sql */
@@ -172,7 +172,7 @@ height:24px;
 width:80%;
 border-radius: 50px;
 background-color: #DCDCDC;
-padding-bottom: 10px;
+padding-bottom: 15px;
 }
 
 /* Progress bar blue sql*/
@@ -181,7 +181,7 @@ height:24px;
 width: 75%;
 border-radius: 50px;
 background-color: #008080;
-padding-bottom: 10px;
+padding-bottom: 15px;
 }
 
 /* Progress bar grey JS/swift*/
@@ -190,7 +190,7 @@ height:24px;
 width:80%;
 border-radius: 50px;
 background-color: #DCDCDC;
-padding-bottom: 10px;
+padding-bottom: 15px;
 }
 
 /* Progress bar blue JS/swift */
@@ -199,7 +199,7 @@ height:24px;
 width:30%;
 border-radius: 50px;
 background-color: #008080;
-padding-bottom: 10px;
+padding-bottom: 15px;
 }
 
 .description {
