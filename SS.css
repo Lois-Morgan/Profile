@@ -38,6 +38,15 @@ padding: 20px;
 border-radius: 50px;
 }
 
+/*Right Column*/
+interests {
+flex: 1;
+background: #f2f2f2;
+padding: 20px;
+height: 700px;
+border-radius: 50px;
+}
+
 /* Individual listed items  */
 li a {
 display: block;
