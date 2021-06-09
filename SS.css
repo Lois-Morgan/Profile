@@ -49,8 +49,8 @@ width: 30%;
 display: table-cell;
 }
 
-.blockquote {
-padding: 15px;
+blockquote {
+padding: 20px;
 background: #f2f2f2;
 border-radius: 50px;
 }
